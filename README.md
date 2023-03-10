@@ -2,9 +2,9 @@
 
 ## Description
 
-This webpage was createad to help new boot camp students navigate the material of the prework study guide. I decided to build something to simplify the amount of information provided. It can be overwhelming at times, so having a more friendly way to see the information can ease the overload for a new students. It is a base to know where to start and it is easy to add to it if the student wanted more information to better understand the material. I learned that having a small amount of information can be less stressfull when starting something new and very different to what we know.  
+This webpage was createad to help new boot camp students navigate the material of the prework study guide. I decided to build something to simplify the amount of information provided. It can be overwhelming at times, so having a more friendly way to see the information can ease the overload for a new student. It is a base to know where to start and it is easy to add to it if the student wanted more information to better understand the material. I learned that having a small amount of information can be less stressfull when starting something new and very different to what we know.  
 
-## Installatio
+## Installation
 
 N/A
 
